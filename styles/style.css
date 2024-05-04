@@ -1,0 +1,23 @@
+body {
+    background: #9FA180;
+}
+.topic {
+    text-align: center;
+}
+.description {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    margin-top: 15px;
+}
+footer a {
+    margin: 0 15px;
+}
+.photo {
+    display: block;
+    margin: 0 auto;
+    width: 700px;
+    border-radius: 10px;
+    border: 1px solid grey;
+}
